@@ -30,7 +30,7 @@ I try to code simple yet cool stuff.
   <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white">
 </div>
 
-### Responsible development 🍃
+### Green coding 🍃
 - Eco-conception
-- Best practices (GreenIT)
+- 115 best practices (GreenIT)
 - GreenIT Analysis
