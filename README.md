@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello there! 👋
 
-<!--
-**Tilianh/Tilianh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT student at the university of Blagnac (France).
 
-Here are some ideas to get you started:
+I try to code simple yet cool stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Responsible development 🟢
+- Eco-conception
+- 115 best practices
+- Green IT Analysis
+- SonarLint
+
+## Main languages
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,php,js,ts,python,&theme=light)](https://skillicons.dev)
+
+## Other techs
+[![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,nodejs,mysql,&theme=light)](https://skillicons.dev)
+
+## Project management and communication
+[![My Skills](https://skillicons.dev/icons?i=git,github,discord,,&theme=light)](https://skillicons.dev)
