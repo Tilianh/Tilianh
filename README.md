@@ -2,7 +2,7 @@
 I try to code simple yet cool stuff.
 
 ### Main languages
-<div style="display: flex">
+<div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
@@ -13,7 +13,7 @@ I try to code simple yet cool stuff.
 </div>
 
 ### Other techs
-<div style="display: flex">
+<div>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -22,15 +22,15 @@ I try to code simple yet cool stuff.
   <img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white">
 </div>
 
+### Green coding 🍃
+- Eco-conception
+- 115 best practices (GreenIT)
+- GreenIT Analysis
+
 ### Project management and communication
-<div style="display: flex">
+<div>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white">
 </div>
-
-### Green coding 🍃
-- Eco-conception
-- 115 best practices (GreenIT)
-- GreenIT Analysis
