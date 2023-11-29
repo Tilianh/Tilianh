@@ -1,7 +1,9 @@
-# Hello there! 👋
+= Hello there! 👋
+
 I try to code simple yet cool stuff.
 
-### Main languages
+== Main languages
+++++
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -11,8 +13,10 @@ I try to code simple yet cool stuff.
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
+++++
 
-### Other techs
+== Other techs
+++++
 <div>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
@@ -21,16 +25,19 @@ I try to code simple yet cool stuff.
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white">
 </div>
+++++
 
-### Green coding 🍃
-- Eco-conception
-- 115 best practices (GreenIT)
-- GreenIT Analysis
+== Green coding 🍃
+* Eco-conception
+* https://github.com/Tilianh/GreenICheck[115 best practices] (Green IT)
+* Green IT Analysis
 
-### Project management and communication
+== Project management and communication
+++++
 <div>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white">
 </div>
+++++
