@@ -36,7 +36,7 @@ I try to code simple yet cool stuff.
 
 == Green coding 🍃
 * Ecoconception
-* https://github.com/Tilianh/GreenICheck[115 best Green IT practices]
+* https://github.com/Tilianh/GreenICheckWIP[115 best Green IT practices]
 * Green IT Analysis
 
 == Other techs
